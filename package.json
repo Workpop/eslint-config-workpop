@@ -1,0 +1,22 @@
+{
+  "name": "eslint-config-workpop",
+  "version": "0.0.1",
+  "description": "Workpop's ESLint Config",
+  "main": "index.js",
+  "scripts": {
+    "test": "$(npm bin)/eslint ."
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Workpop/eslint-config-workpop.git"
+  },
+  "keywords": [
+    "eslint"
+  ],
+  "author": "@workpop",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/Workpop/eslint-config-workpop/issues"
+  },
+  "homepage": "https://github.com/Workpop/eslint-config-workpop#readme"
+}
