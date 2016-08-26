@@ -1,2 +1,3 @@
 # eslint-config-workpop
-Shareable Config for Eslint
+
+> Shareable Config for Eslint
