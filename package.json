@@ -1,5 +1,5 @@
 {
-  "name": "eslint-config-workpop",
+  "name": "@workpop/eslint-config-workpop",
   "version": "0.0.1",
   "description": "Workpop's ESLint Config",
   "main": "index.js",
