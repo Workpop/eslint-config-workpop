@@ -4,6 +4,7 @@ module.exports = {
     './rules/globals.js',
     './rules/es6.js',
     './rules/flow.js',
+    './rules/react.js',
   ].map(require.resolve),
   rules: {
     'block-scoped-var': 1,
@@ -127,13 +128,11 @@ module.exports = {
     'object-curly-spacing': 0,
     'one-var': 2,
     'padded-blocks': 0,
-    'react/prefer-stateless-function': 1,
     'prefer-rest-params': 1,
     'prefer-template': 1,
     'quote-props': 0,
     'quotes': [2, 'single', 'avoid-escape'],
     'radix': 2,
-    'react/prop-types': 1,
     'semi': [
       2,
       'always',
