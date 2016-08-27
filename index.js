@@ -5,7 +5,7 @@ module.exports = {
     './config/es6.js',
     './config/flow.js',
     './config/react.js',
-    './config/customize.js',
+    './config/opinions.js',
   ].map(require.resolve),
   rules: {},
 };
