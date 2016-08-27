@@ -1,11 +1,11 @@
 module.exports = {
   extends: [
     'eslint-config-airbnb',
-    './rules/globals.js',
-    './rules/es6.js',
-    './rules/flow.js',
-    './rules/react.js',
-    './rules/customize.js',
+    './config/globals.js',
+    './config/es6.js',
+    './config/flow.js',
+    './config/react.js',
+    './config/customize.js',
   ].map(require.resolve),
   rules: {},
 };
