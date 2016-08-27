@@ -4,7 +4,8 @@
   "description": "Workpop's ESLint Config",
   "main": "index.js",
   "scripts": {
-    "test": "$(npm bin)/eslint ."
+    "test": "$(npm bin)/eslint .",
+    "fix": "$(npm bin)/eslint --fix ."
   },
   "repository": {
     "type": "git",
