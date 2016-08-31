@@ -1,6 +1,6 @@
 {
   "name": "@workpop/eslint-config-workpop",
-  "version": "0.0.3",
+  "version": "0.0.4",
   "description": "Workpop's ESLint Config",
   "main": "index.js",
   "scripts": {
@@ -21,17 +21,18 @@
   },
   "homepage": "https://github.com/Workpop/eslint-config-workpop#readme",
   "dependencies": {
-    "babel-eslint": "^6.0.2",
-    "eslint-config-airbnb": "^6.0.2",
+    "babel-eslint": "^6.1.2",
+    "eslint": "^3.3.0",
+    "eslint-config-airbnb": "^10.0.1",
     "eslint-onelineperfile": "^1.0.1",
-    "eslint-plugin-flowtype": "^2.4.0",
-    "eslint-plugin-import": "^1.11.1",
-    "eslint-plugin-react": "^4.2.3"
+    "eslint-plugin-flowtype": "^2.11.4",
+    "eslint-plugin-import": "^1.14.0",
+    "eslint-plugin-react": "^6.1.0"
   },
   "devDependencies": {
-    "eslint": "^2.2.0"
+    "eslint": "^3.3.0"
   },
   "peerDependencies": {
-    "eslint": "^2.2.0"
+    "eslint": "^3.3.0"
   }
 }
