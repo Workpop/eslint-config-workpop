@@ -1,6 +1,6 @@
 {
   "name": "@workpop/eslint-config-workpop",
-  "version": "0.0.4",
+  "version": "0.0.5",
   "description": "Workpop's ESLint Config",
   "main": "index.js",
   "scripts": {
@@ -27,6 +27,7 @@
     "eslint-onelineperfile": "^1.0.1",
     "eslint-plugin-flowtype": "^2.11.4",
     "eslint-plugin-import": "^1.14.0",
+    "eslint-plugin-jsx-a11y": "^2.2.1",
     "eslint-plugin-react": "^6.1.0"
   },
   "devDependencies": {
