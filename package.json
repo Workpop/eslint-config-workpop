@@ -5,7 +5,8 @@
   "main": "index.js",
   "scripts": {
     "test": "$(npm bin)/eslint .",
-    "fix": "$(npm bin)/eslint --fix ."
+    "fix": "$(npm bin)/eslint --fix .",
+    "bump": "standard-version"
   },
   "repository": {
     "type": "git",
@@ -31,7 +32,8 @@
     "eslint-plugin-react": "^6.1.0"
   },
   "devDependencies": {
-    "eslint": "^3.3.0"
+    "eslint": "^3.3.0",
+    "standard-version": "^3.0.0"
   },
   "peerDependencies": {
     "eslint": "^3.3.0"
