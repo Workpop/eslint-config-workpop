@@ -33,7 +33,7 @@
   },
   "devDependencies": {
     "eslint": "^3.3.0",
-    "standard-version": "^3.0.0"
+    "standard-version": "^4.0.0"
   },
   "peerDependencies": {
     "eslint": "^3.3.0"
