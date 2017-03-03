@@ -22,7 +22,7 @@
   },
   "homepage": "https://github.com/Workpop/eslint-config-workpop#readme",
   "dependencies": {
-    "babel-eslint": "^7.1.0",
+    "babel-eslint": "^7.1.1",
     "eslint-config-airbnb": "^13.0.0",
     "eslint-onelineperfile": "^1.0.1",
     "eslint-plugin-flowtype": "^2.25.0",
