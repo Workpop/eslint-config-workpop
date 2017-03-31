@@ -35,6 +35,6 @@
     "standard-version": "^4.0.0"
   },
   "peerDependencies": {
-    "eslint": "^3.12.x"
+    "eslint": "^3.19.0"
   }
 }
