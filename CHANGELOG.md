@@ -2,6 +2,24 @@
 
 All notable changes to this project will be documented in this file. See [standard-version](https://github.com/conventional-changelog/standard-version) for commit guidelines.
 
+<a name="1.0.0"></a>
+# [1.0.0](https://github.com/Workpop/eslint-config-workpop/compare/v0.0.9...v1.0.0) (2017-09-16)
+
+
+### Features
+
+* **spaces:** Require trailing new-line at end of files. ([#11](https://github.com/Workpop/eslint-config-workpop/issues/11)) ([440df46](https://github.com/Workpop/eslint-config-workpop/commit/440df46))
+
+
+### BREAKING CHANGES
+
+* spaces: new line at end of files is now required
+* fix(lint): Require blank line at end of files.
+
+* use opinions
+
+
+
 <a name="0.0.9"></a>
 ## [0.0.9](https://github.com/Workpop/eslint-config-workpop/compare/v0.0.8...v0.0.9) (2017-03-28)
 
