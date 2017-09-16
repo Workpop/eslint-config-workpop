@@ -26,7 +26,7 @@ module.exports = {
         'allowKeywords': true,
       },
     ],
-    'eol-last': 0,
+    'eol-last': 2,
     'eqeqeq': [
       2,
       'smart',
