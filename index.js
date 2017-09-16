@@ -7,7 +7,5 @@ module.exports = {
     './config/react.js',
     './config/opinions.js',
   ].map(require.resolve),
-  rules: {
-    "eol-last": 2
-  },
+  rules: {},
 };
