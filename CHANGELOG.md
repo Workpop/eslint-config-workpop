@@ -2,6 +2,16 @@
 
 All notable changes to this project will be documented in this file. See [standard-version](https://github.com/conventional-changelog/standard-version) for commit guidelines.
 
+<a name="1.0.1"></a>
+## [1.0.1](https://github.com/Workpop/eslint-config-workpop/compare/v1.0.0...v1.0.1) (2018-06-14)
+
+
+### Bug Fixes
+
+* **eslint:** lint upgrade ([a16edc2](https://github.com/Workpop/eslint-config-workpop/commit/a16edc2))
+
+
+
 <a name="1.0.0"></a>
 # [1.0.0](https://github.com/Workpop/eslint-config-workpop/compare/v0.0.9...v1.0.0) (2017-09-16)
 
