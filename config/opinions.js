@@ -31,6 +31,7 @@ module.exports = {
       2,
       'smart',
     ],
+    'function-paren-newline': [2, 'consistent'],
     'func-names': 0,
     'guard-for-in': 2,
     'handle-callback-err': 2,
