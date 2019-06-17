@@ -1,6 +1,6 @@
 {
   "name": "@workpop/eslint-config-workpop",
-  "version": "1.0.2",
+  "version": "1.1.0",
   "description": "Workpop's ESLint Config",
   "main": "index.js",
   "scripts": {
